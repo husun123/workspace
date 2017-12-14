@@ -1,8 +1,8 @@
-public class ExamIntegerParse{
+public class ExamintegerParse{
 	
-	public static void main(string[] args) {
-			string number = "70";
-			int temp = Integer.parasInt(number);
+	public static void main(String[] args) {
+			String number = "70";
+			int temp = Integer.parseInt(number);
 			
 			String result = temp + ": number";
 	}
